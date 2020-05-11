@@ -29,9 +29,3 @@ for c in l:
 
 #METODY
 
-
-
-
-
-
-
